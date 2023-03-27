@@ -4,4 +4,4 @@ let ageAsString = "age";
 
 console.log(age);
 
-console.log(ageAsString)
+console.log(ageAsString);
