@@ -1,5 +1,5 @@
 let name = "Muhammad Huzaifa Qayyum";
-let age = 21;
+let age = 17;
 
 if (age >= 18) {
   console.log(`Welcome ${name}, you are an adult`);
